@@ -1,2 +1,2 @@
-# frontend_intern
+# Netflix_homepage
 I developed this  Netflix home page using html and css
